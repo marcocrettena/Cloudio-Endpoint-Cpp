@@ -1,0 +1,4 @@
+#ifndef I_COMMONOBJECT_H
+#define I_COMMONOBJECT_H
+
+#endif // I_COMMONOBJECT_H

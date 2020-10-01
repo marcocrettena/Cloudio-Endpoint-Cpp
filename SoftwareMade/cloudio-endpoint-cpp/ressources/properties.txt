@@ -1,0 +1,4 @@
+uuid=89cb0dec-0178-428a-9327-93f1313c3982
+hostUri=ssl://10.93.9.213:8883
+persistence=false
+ssl.verifyHostname=false
